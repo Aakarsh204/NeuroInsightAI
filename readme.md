@@ -29,6 +29,7 @@
 The platform delivers accurate segmented images that clearly outline the tumor regions, accompanied by a detailed report. Below are example outputs of the scans and corresponding segmented masks, showcasing the precision and effectiveness of the AI model. 
 
 - Tumor masks: 
+  <br />
   ![alt text](sample_mask.jpg)
 - Reports: 
     - Yet to be added
