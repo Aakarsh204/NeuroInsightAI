@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    NeuroInsight AI: Revolutionizing Brain Tumor Diagnosis 🧠
+    NeuroInsight AI: Revolutionizing Brain Tumor Diagnosis
 </h1>
 
 ---
@@ -29,7 +29,7 @@
 The platform delivers accurate segmented images that clearly outline the tumor regions, accompanied by a detailed report. Below are example outputs of the scans and corresponding segmented masks, showcasing the precision and effectiveness of the AI model. 
 
 - Tumor masks: 
-    - Yet to be added
+  ![alt text](sample_mask.jpg)
 - Reports: 
     - Yet to be added
 
